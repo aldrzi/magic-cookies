@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <input type="file" id="imageInput" accept="image/*">
+    <div id="imageContainer">
+        <img id="selectedImage" src="" alt="Selected Image">
+        <div id="textContainer"></div>
+    </div>
+    <div>
+        <select id="imageSelect">
+            <option value="meme.jpg">Gambar 1</option>
+            <option value="image2.jpg">Gambar 2</option>
+            <!-- Tambahkan lebih banyak opsi sesuai dengan gambar yang disediakan -->
+        </select>
+    </div>
+    
+    <textarea id="textInput" placeholder="Tambahkan teks ke meme"></textarea>
+    <div id="controls">
+        <label for="fontSize">Ukuran Teks:</label>
+        <input type="range" id="fontSize" min="10" max="100" step="1">
+        <input type="color" id="fontColor" value="#000000">
+        <label for="fontColor">Warna Teks:</label>
+        <button id="addText">Tambahkan Teks</button>
+    </div>
+    <button id="downloadImage">Unduh Meme</button>
+    <script src="script.js"></script>
+</body>
+</html>

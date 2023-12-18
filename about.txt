@@ -1,0 +1,188 @@
+        <!--Content Section-->
+        <div id="services" class="scrollto clearfix">
+
+            <div class="row no-padding-bottom clearfix">
+
+
+                <!--Content Left Side-->
+                <div class="col-3">
+                    <!--User Testimonial-->
+                    <blockquote class="testimonial text-right bigtest">
+                        <q> Where Santa's Workshop Meets the Blockchain – Because Even Elves Need Digital Swag! 🎅🚀🍪</q>
+                        <footer>— MagicCookies</footer>
+                    </blockquote>
+                    <!-- End of Testimonial-->
+
+                </div>
+                <!--End Content Left Side-->
+
+                <!--Content of the Right Side-->
+                <div class="col-3">
+                    <div class="section-heading">
+                        <h3>Magic Cookies</h3>
+                        <h2 class="section-title">Introducing Magic Cookies NFT - A Festive Feast for Your Digital Senses! </h2>
+                        <p class="section-subtitle">Unwrap the enchantment of the holiday season with Magic Cookies NFT, where Christmas cheer meets blockchain innovation! Immerse yourself in a winter wonderland of limited-edition digital treasures, each one a delectable treat crafted by talented artists and inspired by the magic of Christmas.</p>
+                    </div>
+                    <p>Join our community as we blend the joy of the season with cutting-edge technology. From twinkling lights to cozy fireside scenes, our NFTs capture the spirit of Christmas in every pixel. The Magic Cookies NFT collection is not just art; it's a festive celebration of creativity and digital ownership.
+                        <br>
+                        Indulge in the joy of giving and receiving by gifting Magic Cookies NFTs to your loved ones. Our blockchain-backed, secure platform ensures that each NFT is a unique, cherished gift that will stand the test of time.
+                    </p>
+                    <p>
+                        This holiday season, make your digital collection merry and bright with Magic Cookies NFT. Join us in spreading the magic of Christmas through the lens of blockchain technology, where every NFT tells a story, and every story is a gift waiting to be unwrapped! 🎁✨
+                    </p>
+                    <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
+                    <a target="_blank" href="comingsoon /comingsoon.html" class="button link-lightbox">
+                        MINT YOUR COOKIES NOW
+                    </a>
+                </div>
+                <!--End Content Right Side-->
+
+                <div class="col-3">
+                    <img src="images/santa-claus-12463.png" alt="Dancer" class="dancer-img"/>
+                </div>
+                
+            </div>
+
+        </div>
+        <!--End of Content Section-->
+
+
+
+                <!-- Sneak -->
+        <section id="sneakpeek" class="scrollto clearfix">
+            <div class="col-1">
+            <h1>NFT Sneak Peek</h1>
+                </div>
+        <div class="nft-preview" id="nftContainer">
+            <!-- NFT Card 1 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/gallery-images/coomingsoon.png" alt="NFT Preview 1">
+            
+            </div>
+    
+            <!-- NFT Card 2 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/logo.jpg" alt="NFT Preview 2">
+            
+            </div>
+    
+            <!-- NFT Card 3 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/gallery-images/coomingsoon.png" alt="NFT Preview 3">
+            
+            </div>
+    
+            <!-- NFT Card 4 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/logo.jpg" alt="NFT Preview 4">
+            
+            </div>
+
+            <!-- NFT Card 5 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/gallery-images/coomingsoon.png" alt="NFT Preview 5">
+            
+            </div>
+
+            <!-- NFT Card 6 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/logo.jpg" alt="NFT Preview 6">
+            
+            </div>
+
+            <!-- NFT Card 7 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/gallery-images/coomingsoon.png" alt="NFT Preview 7">
+            
+            </div>
+
+            <!-- NFT Card 8 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/logo.jpg" alt="NFT Preview 8">
+            
+            </div>
+
+            <!-- NFT Card 9 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/gallery-images/coomingsoon.png" alt="NFT Preview 9">
+            
+            </div>
+
+            <!-- NFT Card 10 -->
+            <div class="nft-card">
+                <img class="nft-image" src="images/logo.jpg" alt="NFT Preview 10">
+                
+            </div>
+    
+            <!-- Add more NFT cards as needed -->
+    
+        </div>
+    </section>
+        <!-- End of Sneak-->
+
+
+
+        <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fab fa-connectdevelop fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Conceptualization</h4>
+                            <p>Define the unique selling proposition of Magic Cookies NFTs.
+                                Research and identify potential artists and creators to collaborate with.
+                                Analyze the current NFT market trends.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-gears fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4> Development</h4>
+                            <p>Assemble a skilled team including developers, designers, and community managers.
+                                Design and develop the Magic Cookies smart contract.
+                                Build a user-friendly platform for buying, selling, and trading Magic Cookies NFTs.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-cookie fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Pre-Launch Activities</h4>
+                            <p>Establish social media accounts for Magic Cookies.
+                                Launch teaser campaigns to generate interest and build a community.
+                                Open whitelisting for early supporters.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-rocket fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>NFT Minting and Launch</h4>
+                            <p>Mint the Magic Cookies NFTs on the blockchain.
+                                Host a grand launch event.
+                                Execute a comprehensive marketing campaign across various channels.
+                                Open the marketplace for users to start purchasing Magic Cookies NFTs.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
