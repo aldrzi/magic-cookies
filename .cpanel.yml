@@ -3,10 +3,10 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1575539/public_html/magiccookies.xyz
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp/css style.css $DEPLOYPATH
-    - /bin/cp/css animate.css $DEPLOYPATH
-    - /bin/cp/css namari-color.css $DEPLOYPATH
-    - /bin/cp/js site.js $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp animate.css $DEPLOYPATH
+    - /bin/cp namari-color.css $DEPLOYPATH
+    - /bin/cp site.js $DEPLOYPATH
     - /bin/cp -r comingsoon $DEPLOYPATH
     - /bin/cp -r css $DEPLOYPATH  
     - /bin/cp -r fontawesome $DEPLOYPATH
