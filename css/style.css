@@ -801,6 +801,10 @@ h6 {
     margin-top: 30px;
 }
 
+#banner h2 {
+   width: 700px;
+}
+
 
 
 /*------------------------------------------------------------------------------------------*/
@@ -2416,6 +2420,10 @@ blockquote {
         font-family: 'Open Sans', sans-serif, Arial, Helvetica;
         font-size:30px;
         color:#fff;
+    }
+
+    #banner h2 {
+        width: 450px;
     }
 
 }
